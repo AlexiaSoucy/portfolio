@@ -6,8 +6,6 @@ Also contains the 18-DOP bounding volume implementation utilized in the project,
 This 4D functionality was developed as part of an AI pathfinding demo in collaboration with Keven Presseau-St-Laurent and Maude Braunstein as part of Serguei Mokhov's COMP 477 at Concordia University in the fall of 2019.
 
 ## Controls
-To control the 4D object 
-
 * SPACEBAR - Pause
 * Q/ESCAPE - Quit
 * F1 - Default camera
