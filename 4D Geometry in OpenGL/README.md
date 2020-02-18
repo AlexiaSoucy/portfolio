@@ -4,7 +4,7 @@ A header file to create and render 4D geometry in OpenGL by generating a 3D cros
 Also contains the 18-DOP bounding volume implementation utilized in the project, adapted from Christer Ericson's 8-DOP approach detailed in Real-Time Collision Detection.
 
 This 4D functionality was developed as part of an AI pathfinding demo in collaboration with Keven Presseau-St-Laurent and Maude Braunstein as part of Serguei Mokhov's COMP 477 at Concordia University in the fall of 2019.
----
+
 ## Controls
 To control the 4D object 
 
