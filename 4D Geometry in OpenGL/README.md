@@ -8,11 +8,11 @@ This 4D functionality was developed as part of an AI pathfinding demo in collabo
 ## Controls
 To control the 4D object 
 
-SPACEBAR - Pause
-Q/ESCAPE - Quit
-F1 - Default camera
-F2 - Overhead camera
-F3 - Eye Level camera
-ARROW KEYS - Rotate view
-F - Toggle wireframe on 4D objects
-RMB/LMB - Morph 4D objects
+* SPACEBAR - Pause
+* Q/ESCAPE - Quit
+* F1 - Default camera
+* F2 - Overhead camera
+* F3 - Eye Level camera
+* ARROW KEYS - Rotate view
+* F - Toggle wireframe on 4D objects
+* RMB/LMB - Morph 4D objects
