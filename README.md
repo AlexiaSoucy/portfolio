@@ -1,5 +1,4 @@
 # Portfolio
----
 A coding portfolio by Alexia Soucy.
 
 Contact:
