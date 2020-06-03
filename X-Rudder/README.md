@@ -3,6 +3,6 @@ A simple game in which two players attempt to form a 3x3 X pattern on a board to
 
 Developed in Python as part of Nora Houari's COMP 472 - Artificial Intelligence at Concordia University in the fall of 2019.
 
-Contact:
+### Contact:
 * Email: soucy.alexia@gmail.com
 * LinkedIn: https://www.linkedin.com/in/alexia-soucy-077935192/

@@ -20,6 +20,6 @@ All source code written by me is included in src, but the only code necessary to
 * X - Toggle fill
 * ESC - Quit
 
-Contact:
+### Contact:
 * Email: soucy.alexia@gmail.com
 * LinkedIn: https://www.linkedin.com/in/alexia-soucy-077935192/

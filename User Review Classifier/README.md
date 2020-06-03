@@ -3,6 +3,6 @@ A user review classifier using basic Naive Bayes statistical natural language pr
 
 Developed in Python as part of Nora Houari's COMP 472 - Artificial Intelligence at Concordia University in the fall of 2019.
 
-Contact:
+### Contact:
 * Email: soucy.alexia@gmail.com
 * LinkedIn: https://www.linkedin.com/in/alexia-soucy-077935192/
