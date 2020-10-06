@@ -7,11 +7,6 @@ This was a learning project to get accustomed to working in Unreal Engine, parti
 
 The packaged game can be found at https://alexia-soucy.itch.io/lightmaze.
 
-## Controls
-* WASD/Left Joystick - Tilt maze
-* Arrows/Right Joysick - Move camera
-* Spacebar/Bottom Face Button - Place light
-
 ### Contact:
 * Email: soucy.alexia@gmail.com
 * LinkedIn: https://www.linkedin.com/in/alexia-soucy-077935192/
