@@ -1,4 +1,4 @@
--# LightMaze
+# LightMaze
 ### A pitch-black marble maze made in Unreal Engine
 
 LightMaze lets the player navigate a pitch-black randomly-generated maze with a glowing marble as the only light source. The player can drop some of their light on the ground to mark parts of the maze, but lose some of their own light when they do.
