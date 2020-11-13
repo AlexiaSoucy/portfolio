@@ -1,4 +1,4 @@
--# Photon Arena
+# Photon Arena
 ### A top-down shooter prototype in Unity.
 
 Photon Arena is a small prototype for a top-down shooter using colour theory. The player defeats waves of enemies by shooting them with their complementary colour and must use coloured forcefields to damage enemies whose colours don't match the player's arsenal. Playable at https://alexia-soucy.itch.io/photon-arena.
